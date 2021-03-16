@@ -1,0 +1,22 @@
+.manavbar {
+    background-color: black;
+    display: flex;
+    width: 100%;
+}
+
+.aligne {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nodot {
+    list-style: none;
+}
+
+.size50 {
+    width: 35%;
+}
+
+#p {
+    align-items: flex-end;
+}
